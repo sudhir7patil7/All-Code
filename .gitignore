@@ -259,3 +259,20 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/MVC-Core
+/VS-2017
+/Mail-001
+/Demo-1
+/CRUDWithEF.rar
+/CRUDWithEF
+/CRUDWebAPIWithStoredProc
+/ConsumeWebApiMVC
+/CodeFirst
+/Class-3
+/Class-2
+/BulkMail
+/WebAPI_InDotNet
+/WebAPI-In-DotNet
+/TestRepo
+*.zip
+/MainMVCDemo
